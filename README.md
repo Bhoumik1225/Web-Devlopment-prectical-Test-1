@@ -1,3 +1,6 @@
-Name : Bhoumik Jain;
-Section : A;
-URN : E26B03F2692;
+# WebDevelopment Assignment
+
+- **Name:** Harshit Raj
+- **URN:** E26B03F2714
+- **Section:** A
+- **Subject:** Web Development Assignment
